@@ -1,15 +1,15 @@
 # 😆 Projeto-CadEndereco
+foto
+
 # Índice
 
-[Projeto - portifólio para escrita do README.](#projeto---portif%C3%B3lio-para-escrita-do-readme)  
-[descrição](#descri%C3%A7%C3%A3o)  
-[Funcionalidades](#funcionalidades)    
-[Tecnologias Utilizadas](#tecnologias-utilizadas)   
-[Fontes consultadas](#fontes-consultadas)    
-[Autores](#autores)  
+[Projeto-CadEndereco](https://github.com/emillycaaroline/Projeto-CadEndereco#-projeto-cadendereco)  
+[descrição](https://github.com/emillycaaroline/Projeto-CadEndereco#-descri%C3%A7%C3%A3o)  
+[Funcionalidades](https://github.com/emillycaaroline/Projeto-CadEndereco#-funcionalidades)    
+[Tecnologias Utilizadas](https://github.com/emillycaaroline/Projeto-CadEndereco#%EF%B8%8F-tecnologias-utilizadas)   
+[Fontes consultadas](https://github.com/emillycaaroline/Projeto-CadEndereco#%EF%B8%8F-fontes-consultadas)    
+[Autores](https://github.com/emillycaaroline/Projeto-CadEndereco#%EF%B8%8F-autores)  
 
-#  🚀 Projeto - Cadastro de endereço.
- foto
 
 ## 📋 descrição
 
@@ -24,7 +24,6 @@ Pagina para cadastro de endereço e também aendo responsiva que se adapta a qua
     
    - `github`  
    - `README`
-   - `CSS3`
    - `HTML5`
    - `Bootstrap 5`
 
