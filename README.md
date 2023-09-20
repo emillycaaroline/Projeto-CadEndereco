@@ -1,14 +1,13 @@
 # 😆 Projeto-CadEndereco
-[Página de Cadastro de endereço](https://emillycaaroline.github.io/Projeto-CadEndereco/)
 foto
 
 ## 📋 descrição
 
-Projeto feito para diciplina de programação web, no intuito de criar um formulario para cadastro de endereço.
+Projeto feito para diciplina de programação web, no intuito de criar um formulario para [cadastro de endereço.](https://emillycaaroline.github.io/Projeto-CadEndereco/)
 
 ## 🔧 Funcionalidades
 
-Pagina para cadastro de endereço e também aendo responsiva que se adapta a qualquer tipo de tela
+Este projeto se trata de uma pagina para cadastro de endereço onde através so CEP puxa endereço, também sendo uma página responsiva que se adapta a qualquer tipo de tela.
 
 
 ### 🛠️ Tecnologias Utilizadas
@@ -25,4 +24,4 @@ Pagina para cadastro de endereço e também aendo responsiva que se adapta a qua
 ## ✒️ Autores
 [•Emilly Caroline](https://github.com/emillycaaroline)  
 [Perfil no Linkedin](https://www.linkedin.com/in/emilly-caroline-129936290) <br> <br>
-[•ORIENTADOR Leonardo Rocha](https://github.com/LeonardoRochaMarista)
+[•ORIENTADOR](https://github.com/LeonardoRochaMarista)
