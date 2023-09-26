@@ -1,4 +1,4 @@
-# 😆 Projeto-CadEndereco
+# 🙃 Projeto-CadEndereco
 foto
 
 ## 📋 descrição
@@ -23,10 +23,12 @@ Este projeto se trata de uma pagina para cadastro de endereço onde através so 
 
 ## ✒️ Autores
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/127847857?v=4" width=115><br><sub>Emilly Caroline </sub>](https://github.com/emillycaaroline)<br><br> 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/127847857?v=4" width=115><br><sub>Emilly Caroline </sub>](https://github.com/emillycaaroline)<br><br><br>
 
 orientação:<br>
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127845865?v=4" width=115><br><sub>Larissa Manrique</sub>](https://github.com/larissassk)
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha </sub>](https://github.com/LeonardoRochaMarista)  
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/127845411?v=4" width=115><br><sub>Vitória Gabrieli </sub>](https://github.com/vickieww)
 
