@@ -27,5 +27,6 @@ Este projeto se trata de uma pagina para cadastro de endereço onde através so 
 
 orientação:<br>
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127845865?v=4" width=115><br><sub>Larissa Manrique</sub>](https://github.com/larissassk)
+
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha </sub>](https://github.com/LeonardoRochaMarista)  
 
