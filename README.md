@@ -7,7 +7,7 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 
 ## 🔧 Funcionalidades
 
-Este projeto se trata de uma pagina para cadastro de endereço onde através so CEP puxa endereço, também sendo uma página responsiva que se adapta a qualquer tipo de tela.
+Este projeto se trata de uma pagina para cadastro de endereço onde através so CEP puxa endereço, também sendo uma página responsiva que se adapta a qualquer tipo de tela, a
 
 
 ### 🛠️ Tecnologias Utilizadas
@@ -19,7 +19,7 @@ Este projeto se trata de uma pagina para cadastro de endereço onde através so 
 
 ## 🖇️ Fontes consultadas
 
-[Bootstrap 5: Para uso de modelo.](https://getbootstrap.com/docs/5.0/forms/layout/#gutters)
+[Bootstrap 5: Para fazer o html.](https://getbootstrap.com/docs/5.0/forms/layout/#gutters)
 
 ## ✒️ Autores
 
@@ -31,4 +31,5 @@ orientação:<br>
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha </sub>](https://github.com/LeonardoRochaMarista)  
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127845411?v=4" width=115><br><sub>Vitória Gabrieli </sub>](https://github.com/vickieww)
+| :---: | :---: | :---: |
 
