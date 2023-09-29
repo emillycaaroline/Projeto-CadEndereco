@@ -31,5 +31,5 @@ orientação:<br>
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha </sub>](https://github.com/LeonardoRochaMarista)  
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127845411?v=4" width=115><br><sub>Vitória Gabrieli </sub>](https://github.com/vickieww)
-| :---: | :---: | :---: |
+|:---:|:---:|:---:|
 
