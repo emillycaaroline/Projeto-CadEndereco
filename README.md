@@ -1,9 +1,9 @@
 # 🙃 Projeto-CadEndereco
-foto
+[gif](gif/video.gif)
 
 ## 📋 descrição
 
-Projeto feito para diciplina de programação web, no intuito de criar um formulario para [cadastro de endereço.](https://emillycaaroline.github.io/Projeto-CadEndereco/)
+Projeto feito para diciplina de programação web, no intuito de criar um formulario para [cadastro de endereço.](https://emillycaaroline.github.io/Projeto-CadEndereco/), Fizemos a tradução para português e apagamos campos desnecessários, usamos o site [viaCep](https://viacep.com.br/) para consulta do CEP e usamos a função json com o seguinte link "http://viacep.com.br/ws/${cep.value}/json/", 
 
 ## 🔧 Funcionalidades
 
