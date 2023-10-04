@@ -28,10 +28,10 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 
 ## 👀 Funcionando
 
-✅`Quando o cep for colocado corretamente`
+✅`Quando o cep for colocado corretamente: ele irá puxar os dados do endereço`
 ![gif](gif/CEP.CERTO.gif)
 
-❌`Quando o cep tá errado`
+❌`Quando o cep estiver errado com numeros a menos ou a mais:`
 ![gif](gif/CEP.ERRO.gif)
 
 ❌`Quando o cep não é encontrado`
