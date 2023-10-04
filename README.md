@@ -34,7 +34,7 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 ❌`Quando o cep tá errado`
 ![gif](gif/CEP.ERRO.gif)
 
-❌`Quando o cep não é encontrado
+❌`Quando o cep não é encontrado`
 ![gif](GIF/ERRO.2.gif)
 
 ## ✒️ Autores
