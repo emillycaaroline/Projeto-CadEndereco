@@ -26,7 +26,7 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 
 ## 🖇️ Fontes consultadas
 
-[Bootstrap 5: Para fazer o html.](https://getbootstrap.com/docs/5.0/forms/layout/#gutters)
+[Bootstrap 5: Para fazer o html.](https://getbootstrap.com/docs/5.0/forms/layout/#gutters)<br>
 [Via cep: Para consulta dos dados do cep](https://viacep.com.br/)
 
 ## 👀 Funcionando
