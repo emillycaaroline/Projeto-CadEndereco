@@ -37,8 +37,10 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 ❌`Quando o cep estiver errado com numeros a menos ou a mais:`
 ![gif](gif/CEP.ERRO.gif)
 
-❌`Quando o CEP não é encontrado`
+❎`Quando o CEP não é encontrado`
 ![gif](gif/ERRO.2.gif)
+
+➡️`Se não colocar nada também da erro`
 
 
 ## ✒️ Autores
