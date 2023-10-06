@@ -8,10 +8,12 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 
 - Este projeto se trata de uma pagina para cadastro de endereço onde através so CEP puxa endereço.
 - Ele através do CEP colocado nos tras dados como RUA, BAIRRO, CIDADE E ESTADO.
-- também sendo uma página responsiva que se adapta a qualquer tipo de tela.
-- fizemos a tradução para português e apagamos campos desnecessários.
-- usamos o site [viaCep](https://viacep.com.br/) para puxar os dados do CEP usando a função json.
-
+- Também sendo uma página responsiva que se adapta a qualquer tipo de tela.
+- Fizemos a tradução para português e apagamos campos desnecessários.
+- Usamos o site [viaCep](https://viacep.com.br/) para puxar os dados do CEP usando a função json.
+- Usamos `addEventListener()` do JavaScript permite que você configure funções a serem chamadas quando um evento específico acontece.
+- Usamos `await` recebe uma Promise e a transforma em um valor de retorno.
+- Usamos `async()` significa que o valor de retorno da função será, "por baixo dos panos".
 
 
 
@@ -25,6 +27,7 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 ## 🖇️ Fontes consultadas
 
 [Bootstrap 5: Para fazer o html.](https://getbootstrap.com/docs/5.0/forms/layout/#gutters)
+[Via cep: Para consulta dos dados do cep](https://viacep.com.br/)
 
 ## 👀 Funcionando
 
@@ -34,8 +37,6 @@ Projeto feito para diciplina de programação web, no intuito de criar um formul
 ❌`Quando o cep estiver errado com numeros a menos ou a mais:`
 ![gif](gif/CEP.ERRO.gif)
 
-❌`Quando o cep não é encontrado`
-![gif](GIF/ERRO.2.gif)
 
 ## ✒️ Autores
 
