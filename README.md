@@ -2,7 +2,11 @@
 
 ## 📋 descrição
 
-Projeto feito para diciplina de programação web, no intuito de criar um formulario para [cadastro de endereço.](https://emillycaaroline.github.io/Projeto-CadEndereco/).
+Projeto feito para diciplina de programação web, no intuito de criar um formulario para [cadastro de endereço.](https://emillycaaroline.github.io/Projeto-CadEndereco/).<br>
+
+![gif](gif/FOTO.png)
+
+
 
 ## 🔧 Funcionalidades
 
